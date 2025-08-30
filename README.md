@@ -1,4 +1,4 @@
-# iran-semantic-assets
+# Iran Semantic Assets
 
 ## About
 Iran Semantic Assets is a curated collection of controlled ontologies and vocabularies relevant to Iran’s public administration, cultural heritage, demographic data, and related domains. This repository aims to foster semantic interoperability and linked data reuse across Iranian government and research institutions.
